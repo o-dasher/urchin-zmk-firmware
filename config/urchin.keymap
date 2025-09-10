@@ -72,7 +72,7 @@ ZMK_LAYER(Base,
     &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA     &kp DOT       &kp FSLH
 //╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
 //                                          │             │             │   │             │             │
-                                              &lt NAV SPACE &kp TAB           &lt SYM ENTER &lt NUM BSPC
+                                             &lt SYM ENTER  &kp TAB          &lt NAV SPACE  &lt NUM BSPC
 //                                          ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
 )
 
