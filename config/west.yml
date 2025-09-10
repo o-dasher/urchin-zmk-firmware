@@ -18,6 +18,6 @@ manifest:
 
     - name: zmk-helpers
       remote: urob
-      path: modules/zmk/helpers
+      revision: main
   self:
     path: config
