@@ -63,13 +63,13 @@ MAKE_HRM(hmr, &kp, &kp, KEYS_L THUMBS)
 ZMK_LAYER(Base,
 //╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮
 //│             │             │             │             │             │   │             │             │             │             │             │
-    &kp Q         &kp W         &kp E         &kp R         &kp T             &kp Y         &kp U         &kp I         &kp O         &kp P 
+    &kp B         &kp L         &kp D         &kp W         &kp Z            &kp SQT           &kp F         &kp O         &kp U         &kp J 
 //├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
 //│             │             │             │             │             │   │             │             │             │             │             │
-    &hml LCTRL A  &hml LALT S   &hml LGUI D   &hml LSHFT F  &kp G             &kp H         &hmr RSHFT J  &hmr RGUI K   &hmr RALT L   &hmr RCTRL SQT
+    &hml LCTRL N  &hml LALT R   &hml LGUI T   &hml LSHFT S  &kp G             &kp Y         &hmr RSHFT H  &hmr RGUI A   &hmr RALT E   &hmr RCTRL I 
 //├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
 //│             │             │             │             │             │   │             │             │             │             │             │
-    &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA     &kp DOT       &kp FSLH
+    &kp Q         &kp X         &kp M         &kp C         &kp V             &kp K         &kp P         &kp DOT       &kp COMMA       &kp FSLH
 //╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
 //                                          │             │             │   │             │             │
                                              &lt SYM ENTER  &kp TAB          &lt NAV SPACE  &lt NUM BSPC
